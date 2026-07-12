@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://podatki.gov.si/
 common:
+  - type: DomainSecurity
+    url: security/open-government-slovenia-domain-security.yml
   - type: Website
     url: https://podatki.gov.si/
   - type: PublicAPIsListing
