@@ -39,7 +39,6 @@ apis:
   - name: Open Government, Slovenia
     description: "Slovenia Government Open Data"
     humanURL: https://podatki.gov.si/
-    baseURL: https://podatki.gov.si/
     tags:
       - Government
     properties:
